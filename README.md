@@ -73,4 +73,8 @@ roslaunch moveit_pkg demo_gazebo.launch
 
 -video-
 
+Uploading gazebo.mp4…
+
+
+
 *That's it!* 🐻
