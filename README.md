@@ -57,7 +57,7 @@ roslaunch robot_arm_pkg check_motors.launch
 
 ![Screenshot_8](https://github.com/user-attachments/assets/12fada71-e63b-428e-88a0-9aa6f5dda201)
 
--video-
+![Screenshot_11](https://github.com/user-attachments/assets/94a29633-6a7f-4852-89c0-d8cabf64a1d5)
 
 -------------------------------------------------------------------------------------------------
 
@@ -71,9 +71,7 @@ roslaunch moveit_pkg demo_gazebo.launch
 
 ![Screenshot_9](https://github.com/user-attachments/assets/cc8ff45c-9878-4583-8c1d-026a99863bb7)
 
--video-
-
-Uploading gazebo.mp4…
+![Screenshot_10](https://github.com/user-attachments/assets/579acc80-486e-4931-816d-01eebfa6257a)
 
 
 
